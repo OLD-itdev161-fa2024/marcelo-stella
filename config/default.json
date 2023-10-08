@@ -1,4 +1,4 @@
 {
     "mongoURI": "mongodb+srv://marcelo-stella:Marcelostella90@cluster0.kgckeeo.mongodb.net/?retryWrites=true&w=majority",
-    "jwtSecret": "marcelostella90"
+    "jwtSecret": "holaquehace"
 }
